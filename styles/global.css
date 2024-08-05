@@ -19,7 +19,6 @@
   /* text */
 
   --font-family:  "Archivo", sans-serif;
-  /* --text-exemple: weight font-size/line-height font-family */
   --h1: 800 24px/135% var(--font-family);
   --h2: 800 16px/140% var(--font-family);
   --h3: 800 14px/140% var(--font-family);
@@ -28,6 +27,7 @@
   --text-sm: 400 14px/160% var(--font-family);
   
 }
+/* --text-exemple: weight font-size/line-height font-family */
 
 body {
   font: var(--text);
